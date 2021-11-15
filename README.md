@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=뱃지모양&logo=로고&logoColor=EA4335"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejun32&show_icons=true&theme=radical)
+
 
 
 <!--
