@@ -1,4 +1,4 @@
-🌱 I’m currently learning ML/DL!
+🌱 I’m currently learning ML/DL!  
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white" />
 
 
