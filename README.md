@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Heejun</h1>
-<h3 align="center">I want to be a Machine Learning Engineer.</h3>
 
 - 🌱 I’m currently learning **Machine Learning.**
 
