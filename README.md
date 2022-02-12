@@ -1,4 +1,5 @@
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FD866E&height=300&section=footer&text=capsule%20render&fontSize=90&rotate=180)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&color=FD866E&height=200&section=footer&text=capsule%20render&fontSize=90) -->
+![header](https://capsule-render.vercel.app/api?type=wave&&color=FD866E&height=80&section=header&descSize=30)  
 
 <h3 align="left">Self-Introduction:</h3>
 
