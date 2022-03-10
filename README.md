@@ -1,12 +1,8 @@
 <h3 align="left">Self-Introduction:</h3>
 
 - Name : HEEJUN KIM  
-- Age : 27 (1995.03.02)  
-- Portfolio : https://heejun32.github.io/  
+- Portfolio : https://heejun32.github.io/about/  
 - Interested in : **Machine Learning, Software Development**  
-- Addtional Information    
-  > 현장 전문가 육성을 위한 인공지능(AI) 창의융합형 인재 양성과정(2021.06.17 ~ 2021.11.30)  
-  > KT Aivle School AI 개발자 과정 1기 (2021.12.14~)  
 
 <h3 align="left">Languages and Tools:</h3>
 
