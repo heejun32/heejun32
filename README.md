@@ -1,7 +1,7 @@
 <h3 align="left">Self-Introduction:</h3>
 
 - Name : HEEJUN KIM  
-- Portfolio : https://heejun32.github.io/about/  
+- About me : https://heejun32.github.io/about/  
 - Interested in : **Machine Learning, Software Development**  
 
 <h3 align="left">Languages and Tools:</h3>
