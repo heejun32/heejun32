@@ -2,7 +2,7 @@
 
 - Name : HEEJUN KIM  
 - About me : https://velog.io/@heejun32/about
-- Interested in : **Machine Learning, Software Development**  
+- Interested in : **ML Engineering, Data Science, Data Analysis, Data Engineering**  
 
 <h3 align="left">Languages and Tools:</h3>
 
